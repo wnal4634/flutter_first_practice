@@ -1,6 +1,4 @@
-# toonflix
-
-A new Flutter project.
+A new Flutter project(Practice).
 
 ## Getting Started
 
